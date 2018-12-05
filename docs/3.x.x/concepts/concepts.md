@@ -251,7 +251,7 @@ Plugin policies are usable from any app API.
 
 Public assets are static files such as images, video, css, etc that you want to make accessible to the outside world. Every new project includes by default, a folder named `./public`.
 
-> Please refer to the [public configuration](../configurations/configurations.md#Application) for more informations.
+> Please refer to the [public assets guide](../guides/public-assets.md) for more informations.
 
 ***
 
